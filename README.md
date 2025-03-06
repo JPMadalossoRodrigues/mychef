@@ -12,7 +12,6 @@ This project uses **Artificial Intelligence (AI)** to enhance the user experienc
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Radix UI](https://www.radix-ui.com/)
 - [Shadcn UI](https://ui.shadcn.com/)
 - **AI Services** (TBD – such as OpenAI API or custom ML models)
 
