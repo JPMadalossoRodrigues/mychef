@@ -41,7 +41,6 @@ This project uses **Artificial Intelligence (AI)** to enhance the user experienc
 Create a `.env.local` file and add your API keys:
 ```env
 NEXT_PUBLIC_SPOONACULAR_API_KEY=your_spoonacular_api_key
-NEXT_PUBLIC_OPENAI_API_KEY=your_openai_api_key
 ```
 
 ### 4️⃣ Run the project:
