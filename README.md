@@ -2,11 +2,6 @@
 
 **MyChef Fitness** is a web application designed to help users discover healthy and practical recipes, with filters for specific diets such as **vegan**, **vegetarian**, **low-carb**, and more.
 
-## 🤖 AI Integration
-This project uses **Artificial Intelligence (AI)** to enhance the user experience, including:
-- Generating personalized recipe recommendations.
-- Assisting in ingredient substitutions based on dietary restrictions.
-- Providing dynamic suggestions for healthy meal planning.
 
 ## 🚀 Technologies
 - [Next.js](https://nextjs.org/)
@@ -14,14 +9,12 @@ This project uses **Artificial Intelligence (AI)** to enhance the user experienc
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Shadcn UI](https://ui.shadcn.com/)
 - **Spoonacular API** for recipe and ingredient data
-- **OpenAI API** for intelligent suggestions
 
 ## 🥗 Features
 - ✅ Recipe listing with images
 - ✅ Advanced filters: **Diet, Ingredients, Cooking Time, Meal Type, Difficulty, Intolerances**
 - ✅ Infinite scroll for continuous recipe loading
 - ✅ Recipe detail modal with full instructions
-- ✅ AI-powered ingredient suggestions
 - ✅ Responsive and clean interface
 
 ## 🔧 Getting Started
